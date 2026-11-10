@@ -1,2 +1,4 @@
 # QISCIT
 Repository for the Quantum Information Science Concept Introductory Test (QISCIT)
+
+In order to fill the need for assessing conceptual issues in quantum education, our team has developed a new instrument known as the Quantum Information Science Concept Introductory Test (QISCIT). This test focuses on introductory QIS concepts that can be demonstrated without the formalism or linear algebra required by other quantum assessments. Thus, QISCIT can be used in a variety of settings with novices, including colleges and high schools. We have designed QISCIT to be easy to administer and to focus on key QIS concepts: quantum states, quantum measurement, qubits, entanglement, coherence and decoherence, quantum computing, and quantum communication. QISCIT provides a novel contribution to the field by providing a way for instructors to easily measure novice students’ changing QIS knowledge.
